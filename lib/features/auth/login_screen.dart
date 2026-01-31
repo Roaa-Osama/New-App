@@ -102,7 +102,7 @@ class _LoginScreenState extends State<LoginScreen> {
     showDialog(
       context: context,
       builder: (context) => AlertDialog(
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(22)), // جعل الزوايا دائرية أكثر
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(22)),
         title: Text(
           t.forgotPasswordTitle,
           style: const TextStyle(fontWeight: FontWeight.bold),
