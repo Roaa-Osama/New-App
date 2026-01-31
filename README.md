@@ -58,3 +58,18 @@ To configure Firebase locally:
 * Firebase Authentication handles password hashing and secure token management server-side.
 * Minimal sensitive data is stored on the device.
 * Authentication tokens are managed internally by Firebase SDK.
+
+---
+## 📸 Some Screenshots
+
+![Gallery](Screenshot_20260131_125737.jpg)
+![Gallery](Screenshot_20260131_125744.jpg)
+![Gallery](Screenshot_20260131_125750.jpg)
+![Gallery](Screenshot_20260131_125801.jpg)
+![Gallery](Screenshot_20260131_125822.jpg)
+![Gallery](Screenshot_20260131_125834.jpg)
+![Gallery](Screenshot_20260131_125844.jpg)
+![Gallery](Screenshot_20260131_130018.jpg)
+![Gallery](Screenshot_20260131_130023.jpg)
+![Gallery](Screenshot_20260131_130055.jpg)
+![Gallery](Screenshot_20260131_131258.jpg)
